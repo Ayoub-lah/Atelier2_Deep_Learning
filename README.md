@@ -5,7 +5,6 @@
 **Université Abdelmalek Essaâdi – Faculté des Sciences et Techniques de Tanger (FSTT)**
 
 - **Module:** Deep Learning
-- **Programme:** Cycle Ingénieur – LSI
 - **Professor:** Pr. Lotfi Elaachak
 - **Student:** Ayoub LAHLAIBI
 - **Environment:** Google Colab (NVIDIA Tesla T4 GPU)
